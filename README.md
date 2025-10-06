@@ -1,0 +1,3 @@
+Course project to implement a supervised classifier for VPN Traffic categories using 1D CCN and PCAP to Image converters.
+Algorithm: W. Wang, M. Zhu, J. Wang, X. Zeng and Z. Yang, "End-to-end encrypted traffic classification with one-dimensional convolution neural networks," 2017 IEEE International Conference on Intelligence and Security Informatics (ISI), Beijing, China, 2017, pp. 43-48, doi: 10.1109/ISI.2017.8004872. keywords: {Protocols;Encryption;Feature extraction;Training;Data models;encrypted traffic classification;end-to-end;one-dimensional convolutional neural networks},
+Dataset: VPN-nonVPN dataset (ISCXVPN2016) https://www.unb.ca/cic/datasets/vpn.html
